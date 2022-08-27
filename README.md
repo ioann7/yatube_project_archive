@@ -2,6 +2,7 @@
 ## Social network for bloggers
 ## Technologies
 Python 3.7
+
 Django 2.2.19
 
 ## Launch Instruction
